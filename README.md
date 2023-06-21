@@ -1,4 +1,6 @@
 ![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
+
+
 <h1 align="center">Hi 👋, I'm Salvik Bhowal</h1>
 <h3 align="center">Passionate data professional embracing the evolving world of technology as a versatile data analyst, scientist, and engineer. Always hungry for new challenges and dedicated to continuous learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -18,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/salvik_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salvik_24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/salvik-bhowal-932a39215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salvik-bhowal-932a39215/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/salvikbhowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/salvikbhowal" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/salvik_24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/salvik_24/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/salvik-bhowal-932a39215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salvik-bhowal-932a39215/" height="30" width="40" /></a>
+<a href="https://kaggle.com/salvikbhowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="salvikbhowal" height="30" width="40" /></a>
+<a href="https://instagram.com/salvik_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salvik_24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salvik43&show_icons=true&locale=en" alt="salvik43" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salvik43&" alt="salvik43" /></p>
+
