@@ -3,8 +3,6 @@
 <h3 align="center">Passionate data professional embracing the evolving world of technology as a versatile data analyst, scientist, and engineer. Always hungry for new challenges and dedicated to continuous learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salvik43&label=Profile%20views&color=0e75b6&style=flat" alt="salvik43" /> </p>
 
 <p align="left"> <a href="https://twitter.com/salvik_24" target="blank"><img src="https://img.shields.io/twitter/follow/salvik_24?logo=twitter&style=for-the-badge" alt="salvik_24" /></a> </p>
@@ -20,8 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/salvik_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salvik_24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salvik bhowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salvik bhowal" height="30" width="40" /></a>
-<a href="https://kaggle.com/salvik bhowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="salvik bhowal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/salvik-bhowal-932a39215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salvik-bhowal-932a39215/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/salvikbhowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/salvikbhowal" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/salvik_24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/salvik_24/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
