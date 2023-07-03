@@ -12,13 +12,19 @@ An aspiring data professional passionate about leveraging data to drive insights
 
 <p align="left"> <a href="https://twitter.com/salvik_24" target="blank"><img src="https://img.shields.io/twitter/follow/salvik_24?logo=twitter&style=for-the-badge" alt="salvik_24" /></a> </p>
 
-- 🔭 I’m currently working as an intern [CodeClause_internship_2023](https://github.com/salvik43/CodeClause_Internship_2023/tree/main)
+<h2> 👨‍💻 Know Me </h2><br>
 
-- 🌱 I’m currently learning **Data Engineering concepts, AWS services, Big Data, Distributed Computing, Advance SQL**
+📌 I’m a 3rd year BCA undergrad from Techno Main Saltlake Kolkata, India <br>
 
-- 💬 Ask me about **python,pandas,numpy,mysql,matplotlib,seaborn,sklearn**
+🔭 I’m currently working on Data Engineering Projects<br>
 
-- 📫 How to reach me **learnings.salvik24@gmail.com**
+🌱 I’m currently learning **AWS services, NoSQL Databases, Big Data, Distributed Computing Frameworks, Advance SQL**<br>
+
+💬 Ask me about **python,pandas,numpy,mysql,DBMS,matplotlib,seaborn,sklearn**<br>
+
+📫 How to reach me **learnings.salvik24@gmail.com**<br>
+
+🏚️ Hometown : Tinsukia, Assam, India<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,4 +42,25 @@ An aspiring data professional passionate about leveraging data to drive insights
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salvik43&show_icons=true&locale=en" alt="salvik43" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salvik43&" alt="salvik43" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
