@@ -1,4 +1,5 @@
-![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
+<!--![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)-->
+![MasterHead](https://github.com/salvik43/salvik43/assets/67736824/c66441b6-ccfb-4b73-9016-ae7db8044ac9)
 
 
 <h1 align="center">Hi 👋, I'm Salvik Bhowal</h1>
