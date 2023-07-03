@@ -38,6 +38,7 @@ An aspiring data professional passionate about leveraging data to drive insights
 <a href="https://kaggle.com/salvikbhowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="salvikbhowal" height="30" width="40" /></a>
 <a href="https://instagram.com/salvik_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salvik_24" height="30" width="40" /></a>
 </p>
+<br>
 
 ### 🎧 What I'm Listening to! 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4z5wmuxmf66grlmoo580ns0sk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00ff6e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
