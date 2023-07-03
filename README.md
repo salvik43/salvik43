@@ -17,8 +17,9 @@ An aspiring data professional passionate about leveraging data to drive insights
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salvik43&label=Profile%20views&color=0e75b6&style=flat" alt="salvik43" /> </p>
 <p align="left"> <a href="https://twitter.com/salvik_24" target="blank"><img src="https://img.shields.io/twitter/follow/salvik_24?logo=twitter&style=for-the-badge" alt="salvik_24" /></a> </p>
 
-<h2> 👨‍💻 Know Me </h2><br>
+<h2> 👨‍💻 Know Me </h2> <br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 📌 I’m a 3rd year BCA undergrad from Techno Main Saltlake Kolkata, India <br>
 
 🔭 I’m currently working on Data Engineering Projects<br>
@@ -31,6 +32,7 @@ An aspiring data professional passionate about leveraging data to drive insights
 
 🏚️ Hometown : Tinsukia, Assam, India<br>
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/salvik_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salvik_24" height="30" width="40" /></a>
@@ -38,7 +40,6 @@ An aspiring data professional passionate about leveraging data to drive insights
 <a href="https://kaggle.com/salvikbhowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="salvikbhowal" height="30" width="40" /></a>
 <a href="https://instagram.com/salvik_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salvik_24" height="30" width="40" /></a>
 </p>
-<br>
 
 ### 🎧 What I'm Listening to! 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4z5wmuxmf66grlmoo580ns0sk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00ff6e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
