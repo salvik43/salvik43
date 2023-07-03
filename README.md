@@ -2,7 +2,10 @@
 ![MasterHead](https://github.com/salvik43/salvik43/assets/67736824/c66441b6-ccfb-4b73-9016-ae7db8044ac9)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%8E%89Welcome+To+My+Profile%F0%9F%8E%89;Hi+%F0%9F%91%8B%2C+I'm+Salvik+Bhowal;Aspiring+Data+Professional+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=2500&pause=700&color=01def7&center=true&vCenter=true&width=1000&height=75&lines=%F0%9F%8E%89Welcome+To+My+Profile%F0%9F%8E%89;Hi+%F0%9F%91%8B%2C+I'm+Salvik+Bhowal;Aspiring+Data+Professional+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=6000&pause=750&color=F75800&background=FFFFFF00&center=true&vCenter=true&width=1700&height=80&lines=Kaggle+3X+Expert;Leetcode+Top+5000+Global+Rank;300%2B+Projects+on+GitHub;8%2B+Published+research+papers+in+Scopus+Indexed+Journals;20K%2B+Networks+on+LinkedIn;500K%2B+Viewership+on+Quora+%26+Medium)](https://git.io/typing-svg)-->
 <h4 align="center">
   
 An aspiring data professional passionate about leveraging data to drive insights and informed decision-making. Skilled in **Data Engineering**, **Data Analysis**, **programming**. I am dedicated to continuous learning and staying up-to-date with the latest advancements in the field. Excited to contribute to a dynamic team and make a positive impact through data-driven strategies..</h4>
