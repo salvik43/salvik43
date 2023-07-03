@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=AKA_RONY&height=100&section=header"/>
+</p>
+
 <!--![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)-->
 ![MasterHead](https://github.com/salvik43/salvik43/assets/67736824/c66441b6-ccfb-4b73-9016-ae7db8044ac9)
 
@@ -54,6 +58,11 @@ An aspiring data professional passionate about leveraging data to drive insights
     </a>
 </p>
 
+> **✍️ Random Dev Quote**:
+
+|![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
+|---|
+<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 
