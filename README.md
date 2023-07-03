@@ -42,8 +42,7 @@ An aspiring data professional passionate about leveraging data to drive insights
 </p>
 
 ### 🎧 What I'm Listening to! 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4z5wmuxmf66grlmoo580ns0sk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00ff6e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4z5wmuxmf66grlmoo580ns0sk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=00ff6e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ![MasterHead](https://github.com/salvik43/salvik43/assets/67736824/c66441b6-ccfb-4b73-9016-ae7db8044ac9)
