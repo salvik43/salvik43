@@ -5,9 +5,6 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://github.com/roycuadra)
 <!--![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)-->
 
-
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=2500&pause=700&color=01def7&center=true&vCenter=true&width=1000&height=75&lines=%F0%9F%8E%89Welcome+To+My+Profile%F0%9F%8E%89;Hi+%F0%9F%91%8B%2C+I'm+Salvik+Bhowal;Aspiring+Data+Professional+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=6000&pause=750&color=F75800&background=FFFFFF00&center=true&vCenter=true&width=1700&height=80&lines=Kaggle+3X+Expert;Leetcode+Top+5000+Global+Rank;300%2B+Projects+on+GitHub;8%2B+Published+research+papers+in+Scopus+Indexed+Journals;20K%2B+Networks+on+LinkedIn;500K%2B+Viewership+on+Quora+%26+Medium)](https://git.io/typing-svg)-->
@@ -15,8 +12,8 @@
   
 An aspiring data professional passionate about leveraging data to drive insights and informed decision-making. Skilled in **Data Engineering**, **Data Analysis**, **programming**. I am dedicated to continuous learning and staying up-to-date with the latest advancements in the field. Excited to contribute to a dynamic team and make a positive impact through data-driven strategies..</h4>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
-
 <br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salvik43&label=Profile%20views&color=0e75b6&style=flat" alt="salvik43" /> </p>
 <p align="left"> <a href="https://twitter.com/salvik_24" target="blank"><img src="https://img.shields.io/twitter/follow/salvik_24?logo=twitter&style=for-the-badge" alt="salvik_24" /></a> </p>
 
