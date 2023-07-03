@@ -2,8 +2,10 @@
 ![MasterHead](https://github.com/salvik43/salvik43/assets/67736824/c66441b6-ccfb-4b73-9016-ae7db8044ac9)
 
 
-<h1 align="center">Hi 👋, I'm Salvik Bhowal</h1>
-<h3 align="center">Passionate data professional embracing the evolving world of technology as a versatile data analyst, scientist, and engineer. Always hungry for new challenges and dedicated to continuous learning.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%8E%89Welcome+To+My+Profile%F0%9F%8E%89;Hi+%F0%9F%91%8B%2C+I'm+Salvik+Bhowal;Aspiring+Data+Professional+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+<h4 align="center">
+  
+An aspiring data professional passionate about leveraging data to drive insights and informed decision-making. Skilled in **Data Engineering**, **Data Analysis**, **programming**. I am dedicated to continuous learning and staying up-to-date with the latest advancements in the field. Excited to contribute to a dynamic team and make a positive impact through data-driven strategies..</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salvik43&label=Profile%20views&color=0e75b6&style=flat" alt="salvik43" /> </p>
