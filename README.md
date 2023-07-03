@@ -14,14 +14,14 @@
 <h4 align="center">
   
 An aspiring data professional passionate about leveraging data to drive insights and informed decision-making. Skilled in **Data Engineering**, **Data Analysis**, **programming**. I am dedicated to continuous learning and staying up-to-date with the latest advancements in the field. Excited to contribute to a dynamic team and make a positive impact through data-driven strategies..</h4>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salvik43&label=Profile%20views&color=0e75b6&style=flat" alt="salvik43" /> </p>
 
 <p align="left"> <a href="https://twitter.com/salvik_24" target="blank"><img src="https://img.shields.io/twitter/follow/salvik_24?logo=twitter&style=for-the-badge" alt="salvik_24" /></a> </p>
 
 <h2> 👨‍💻 Know Me </h2><br>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 📌 I’m a 3rd year BCA undergrad from Techno Main Saltlake Kolkata, India <br>
 
 🔭 I’m currently working on Data Engineering Projects<br>
@@ -79,7 +79,6 @@ An aspiring data professional passionate about leveraging data to drive insights
          alt="Waving hand animated gif"
          height=""
          width="45" />,-->
-
 
 
 
