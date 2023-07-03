@@ -16,8 +16,8 @@
 An aspiring data professional passionate about leveraging data to drive insights and informed decision-making. Skilled in **Data Engineering**, **Data Analysis**, **programming**. I am dedicated to continuous learning and staying up-to-date with the latest advancements in the field. Excited to contribute to a dynamic team and make a positive impact through data-driven strategies..</h4>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salvik43&label=Profile%20views&color=0e75b6&style=flat" alt="salvik43" /> </p>
-
 <p align="left"> <a href="https://twitter.com/salvik_24" target="blank"><img src="https://img.shields.io/twitter/follow/salvik_24?logo=twitter&style=for-the-badge" alt="salvik_24" /></a> </p>
 
 <h2> 👨‍💻 Know Me </h2><br>
@@ -42,6 +42,9 @@ An aspiring data professional passionate about leveraging data to drive insights
 <a href="https://instagram.com/salvik_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salvik_24" height="30" width="40" /></a>
 </p>
 
+### 🎧 What I'm Listening to! 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4z5wmuxmf66grlmoo580ns0sk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00ff6e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 ![MasterHead](https://github.com/salvik43/salvik43/assets/67736824/c66441b6-ccfb-4b73-9016-ae7db8044ac9)
@@ -63,9 +66,7 @@ An aspiring data professional passionate about leveraging data to drive insights
     </a>
 </p>
 
-### 🎧 What I'm Listening to! 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4z5wmuxmf66grlmoo580ns0sk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=True&bar_color=00ff6e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 > **✍️ Random Dev Quote**:
 
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
