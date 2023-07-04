@@ -18,7 +18,7 @@ An aspiring data professional passionate about leveraging data to drive insights
 <p align="left"> <a href="https://twitter.com/salvik_24" target="blank"><img src="https://img.shields.io/twitter/follow/salvik_24?logo=twitter&style=for-the-badge" alt="salvik_24" /></a> </p>
 
 <h2> 👨‍💻 Know Me </h2> <br>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966">
 
 📌 I’m a 3rd year BCA undergrad from Techno Main Saltlake Kolkata, India <br>
 
@@ -76,4 +76,4 @@ An aspiring data professional passionate about leveraging data to drive insights
          width="45" />,-->
 
 <!--![hacking](https://github.com/salvik43/ERD/assets/67736824/a8f90f30-4e3f-4ecd-88ef-cb9a0ee351ea)-->
-
+<!--https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966-->
