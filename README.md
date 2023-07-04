@@ -55,9 +55,6 @@ An aspiring data professional passionate about leveraging data to drive insights
  <a href="https://github.com/salvik43?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=salvik43&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 </div>
 
-
-
-
 <p align="center">
     <a href="https://https://github.com/salvik43">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=salvik43&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
@@ -73,14 +70,10 @@ An aspiring data professional passionate about leveraging data to drive insights
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 
-
-
-
-
 <!--Hi <img src="https://camo.githubusercontent.com/b3aa0cb9c95a7593d72ef8e0a894f3ea11e665b6193e90281361a442dc5010e0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" 
          alt="Waving hand animated gif"
          height=""
          width="45" />,-->
 
-
+<!--![hacking](https://github.com/salvik43/ERD/assets/67736824/a8f90f30-4e3f-4ecd-88ef-cb9a0ee351ea)-->
 
