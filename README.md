@@ -63,6 +63,15 @@ An aspiring data professional passionate about leveraging data to drive insights
     </a>
 </p>
 
+ <!-- <a href="https://spotify-github-profile.vercel.app/api/view?uid=21ca7hmfvx4lpeb37y7fs2vpq&redirect=true" target="_blank">
+<img
+      width="240"
+      align="right"
+      height="260"  
+      src="https://spotify-github-profile.vercel.app/api/view?uid=4z5wmuxmf66grlmoo580ns0sk&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false"
+      alt="Aka_rony's Spotify"
+    />
+</a>  -->
 
 > **✍️ Random Dev Quote**:
 
@@ -79,3 +88,4 @@ An aspiring data professional passionate about leveraging data to drive insights
 
 <!--![hacking](https://github.com/salvik43/ERD/assets/67736824/a8f90f30-4e3f-4ecd-88ef-cb9a0ee351ea)-->
 <!--https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966-->
+
