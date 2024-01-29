@@ -93,3 +93,6 @@ An aspiring data professional passionate about leveraging data to drive insights
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 
+
+![snake gif](https://github.com/AKA-RONY/AKA-RONY/blob/output/github-contribution-grid-snake.gif)
+
