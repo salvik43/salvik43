@@ -18,8 +18,11 @@ An aspiring data professional passionate about leveraging data to drive insights
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 <br>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salvik43&label=Profile%20views&color=0e75b6&style=flat" alt="salvik43" /> </p>
 <p align="left"> <a href="https://twitter.com/salvik_24" target="blank"><img src="https://img.shields.io/twitter/follow/salvik_24?logo=twitter&style=for-the-badge" alt="salvik_24" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2> 👨‍💻 Know Me </h2>
 <br>
@@ -58,22 +61,18 @@ An aspiring data professional passionate about leveraging data to drive insights
 
 
 
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-SALVIK.vercel.app/?user=SALVIK&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-AKA-RONY.vercel.app/api?username=AKA-RONY&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=500    src="https://github-readme-stats.vercel.app/api?username=AKA-RONY&count_private=true&theme=react&border_radius=10&show_icons=true" alt="streak stats"/>
+    <br>
+  <br>
+  <img width=500  src="https://github-readme-streak-stats.herokuapp.com/?user=AKA-RONY&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br>
+  <br>
+<img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKA-RONY&theme=react&border_radius=10&show_icons=true&hide_border=false&layout=compact" alt="top langs"/>
+<br>
 </div>
 
 <br/><br/>
@@ -95,5 +94,5 @@ An aspiring data professional passionate about leveraging data to drive insights
 
 
 
-![snake animation](https://github.com/<seu AKA-RONY>/<seu AKA-RONY>/blob/output/github-contribution-grid-snake2.svg)
+
 
