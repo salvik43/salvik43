@@ -22,7 +22,7 @@ An aspiring data professional passionate about leveraging data to drive insights
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salvik43&label=Profile%20views&color=0e75b6&style=flat" alt="salvik43" /> </p>
 <p align="left"> <a href="https://twitter.com/salvik_24" target="blank"><img src="https://img.shields.io/twitter/follow/salvik_24?logo=twitter&style=for-the-badge" alt="salvik_24" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h2> 👨‍💻 Know Me </h2>
 <br>
 
