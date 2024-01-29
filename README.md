@@ -8,6 +8,7 @@
 ![MasterHead](https://github.com/AKA-RONY/AKA-RONY/assets/67736824/8693f97c-a232-4809-96ad-b16eb37aea17)
 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=2500&pause=700&color=01def7&center=true&vCenter=true&width=1000&height=75&lines=%F0%9F%8E%89Welcome+To+My+Profile%F0%9F%8E%89;Hi+%F0%9F%91%8B%2C+I'm+Salvik+Bhowal;Aspiring+Data+Professional+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=6000&pause=750&color=F75800&background=FFFFFF00&center=true&vCenter=true&width=1700&height=80&lines=Kaggle+3X+Expert;Leetcode+Top+5000+Global+Rank;300%2B+Projects+on+GitHub;8%2B+Published+research+papers+in+Scopus+Indexed+Journals;20K%2B+Networks+on+LinkedIn;500K%2B+Viewership+on+Quora+%26+Medium)](https://git.io/typing-svg)-->
@@ -23,7 +24,7 @@ An aspiring data professional passionate about leveraging data to drive insights
 <h2> 👨‍💻 Know Me </h2>
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966">
+<img align="right" alt="Coding" width="400" src="https://github.com/AKA-RONY/AKA-RONY/assets/67736824/c6e81eb3-7a26-49d8-b994-3137a49c7759">
 
 📌 I’m a 3rd year BCA undergrad from Techno Main Saltlake Kolkata, India <br>
 
