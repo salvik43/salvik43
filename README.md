@@ -1,5 +1,3 @@
-
-https://github.com/AKA-RONY/AKA-RONY/assets/67736824/fa7b04a6-8f13-46ad-bfc3-e0704cbd287e
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=AKA_RONY&height=100&section=header"/>
 </p>
