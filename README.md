@@ -73,23 +73,24 @@ An aspiring data professional passionate about leveraging data to drive insights
 <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKA-RONY&theme=react&border_radius=10&show_icons=true&hide_border=false&layout=compact" alt="top langs"/>
 <br>
 </div>
-
 <br/><br/>
-
-<hr/>
-
 <br/>
 
+<a href="https://github.com/AKA-RONY/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKA-RONY&theme=react-dark" alt="akrista" />
+</a>
+<br/>
+<BR/>
 
-
+<hr/>
 
 > **✍️ Random Dev Quote**:
 
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
 <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 
 
