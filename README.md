@@ -95,5 +95,5 @@ An aspiring data professional passionate about leveraging data to drive insights
 
 
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu AKA-RONY>/<seu AKA-RONY>/blob/output/github-contribution-grid-snake2.svg)
 
